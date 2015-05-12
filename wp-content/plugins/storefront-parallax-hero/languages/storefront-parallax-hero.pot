@@ -1,0 +1,153 @@
+# Copyright (C) 2015 Storefront Parallax Hero
+# This file is distributed under the same license as the Storefront Parallax Hero package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Storefront Parallax Hero 1.2.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/storefront-parallax-hero\n"
+"POT-Creation-Date: 2015-04-29 14:49:50+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: storefront-parallax-hero.php:144 storefront-parallax-hero.php:153
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: storefront-parallax-hero.php:163
+msgid "Support"
+msgstr ""
+
+#: storefront-parallax-hero.php:164
+msgid "Docs"
+msgstr ""
+
+#: storefront-parallax-hero.php:198
+msgid ""
+"%sThanks for installing the Storefront Parallax Hero extension. To get "
+"started, visit the %sCustomizer%s.%s %sOpen the Customizer%s"
+msgstr ""
+
+#: storefront-parallax-hero.php:294
+msgid "Parallax Hero"
+msgstr ""
+
+#: storefront-parallax-hero.php:295
+msgid ""
+"Customise the appearance and content of the hero component that is displayed "
+"on your homepage."
+msgstr ""
+
+#: storefront-parallax-hero.php:303
+msgid "Content"
+msgstr ""
+
+#: storefront-parallax-hero.php:309
+msgid "Background"
+msgstr ""
+
+#: storefront-parallax-hero.php:315
+msgid "Layout"
+msgstr ""
+
+#: storefront-parallax-hero.php:340 storefront-parallax-hero.php:625
+msgid "Heading Text"
+msgstr ""
+
+#: storefront-parallax-hero.php:345
+msgid "Heading text"
+msgstr ""
+
+#: storefront-parallax-hero.php:372 storefront-parallax-hero.php:627
+msgid "Description Text"
+msgstr ""
+
+#: storefront-parallax-hero.php:377
+msgid "Description text"
+msgstr ""
+
+#: storefront-parallax-hero.php:424
+msgid "Background image"
+msgstr ""
+
+#: storefront-parallax-hero.php:437
+msgid "Background size"
+msgstr ""
+
+#: storefront-parallax-hero.php:457
+msgid "Parallax"
+msgstr ""
+
+#: storefront-parallax-hero.php:458
+msgid "Enable the parallax scrolling effect"
+msgstr ""
+
+#: storefront-parallax-hero.php:472
+msgid "Parallax scroll speed"
+msgstr ""
+
+#: storefront-parallax-hero.php:473
+msgid ""
+"The speed at which the parallax background scrolls relative to the window"
+msgstr ""
+
+#: storefront-parallax-hero.php:491
+msgid "Specify the overlay background color"
+msgstr ""
+
+#: storefront-parallax-hero.php:509
+msgid "Overlay opacity"
+msgstr ""
+
+#: storefront-parallax-hero.php:533 storefront-parallax-hero.php:632
+msgid "Go shopping"
+msgstr ""
+
+#: storefront-parallax-hero.php:538
+msgid "Button text"
+msgstr ""
+
+#: storefront-parallax-hero.php:554
+msgid "Button url"
+msgstr ""
+
+#: storefront-parallax-hero.php:568
+msgid "Text alignment"
+msgstr ""
+
+#: storefront-parallax-hero.php:588
+msgid "Hero layout"
+msgstr ""
+
+#: storefront-parallax-hero.php:608
+msgid "Full height"
+msgstr ""
+
+#: storefront-parallax-hero.php:609
+msgid "Set the hero component to full height"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Storefront Parallax Hero"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://woothemes.com/products/storefront-parallax-hero/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Adds a hero component to the Storefront homepage template. Customise the "
+"component in the customizer and include it on additional pages using the "
+"included shortcode."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WooThemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://woothemes.com/"
+msgstr ""

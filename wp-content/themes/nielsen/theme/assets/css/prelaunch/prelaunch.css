@@ -1,0 +1,267 @@
+/* Quick View Fix */
+.prelaunch .quick-view-overlay{
+    display: none;
+}
+
+.prelaunch .fixed-bottom {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    border-bottom-width: 8px;
+    border-bottom-style: solid;
+    height: 8px;
+    z-index: 100;
+}
+
+.prelaunch .fixed-background {
+    height: 100%;
+    margin: 0 auto;
+    position: fixed;
+    z-index: -1;
+    left: 0;
+    right: 0;
+    border-width: 8px;
+    border-style: solid;
+}
+
+#prelaunch.container{
+    text-align: center;
+    padding-top: 50px;
+    padding-left: 95px;
+    padding-right: 95px;
+}
+
+#prelaunch .countdown .label{
+    text-transform: uppercase;
+    padding: 0;
+}
+
+#prelaunch .logo{
+    display: block;
+    text-align: center;
+    margin-bottom: 70px;
+}
+
+#prelaunch .logo img{
+    margin: 0 auto;
+}
+
+#prelaunch .message {
+    text-align: center;
+    line-height: 28px;
+    margin-bottom: 70px;
+    padding: 0 130px;
+}
+
+#prelaunch .countdown{
+    margin-bottom: 75px;
+}
+
+#prelaunch .countdown_message {
+
+    margin-bottom: 65px;
+}
+
+#prelaunch .newsletter{
+    text-align: center;
+}
+
+#prelaunch .newsletter .email-field,
+#prelaunch .newsletter .submit{
+    display: inline-block;
+}
+
+#prelaunch .newsletter .email-field{
+    box-shadow: none;
+    border-width: 2px;
+    border-style: solid;
+    height: 40px;
+    width: 100%;
+    max-width: 430px;
+    background: transparent;
+    padding-left: 15px;
+}
+
+.ie11 #prelaunch .newsletter .email-field{
+    line-height: 0;
+}
+
+#prelaunch .newsletter .submit .submit-field{
+    height: 40px;
+    width: 135px;
+    margin-left: 5px;
+    border-width: 2px;
+    border-style: solid;
+
+    -webkit-transition: all 0.3s;
+       -moz-transition: all 0.3s;
+            transition: all 0.3s;
+}
+
+#prelaunch .countdown .information-container {
+    padding: 25px 0;
+}
+
+#prelaunch .countdown .num {
+    display: block;
+    line-height: 60px;
+    padding-bottom: 7px;
+}
+
+#prelaunch .countdown .num:after {
+    content: "";
+    display: block;
+    border-bottom: 5px solid;
+    width: 85px;
+    margin: 0 auto;
+}
+
+#prelaunch .title{
+    margin-bottom: 35px;
+}
+
+#prelaunch .yit-box{
+    margin-bottom: 85px;
+}
+
+#prelaunch .socials{
+    margin-bottom: 50px;
+}
+
+#prelaunch .socials .social{
+    font-size: 30px;
+    display: inline-block;
+    margin-right: 15px;
+
+    -webkit-transition: border-color 0.3s;
+        -moz-transition: border-color 0.3s;
+             transition: border-color 0.3s;
+}
+
+#prelaunch .socials .fa{
+    vertical-align: middle;
+    -webkit-transition: color 0.3s;
+        -moz-transition: color 0.3s;
+             transition: color 0.3s;
+}
+
+#prelaunch .countdown div .information-container {
+    border-width: 3px;
+    border-style: solid;
+    padding-top: 32px;
+    padding-bottom: 38px;
+}
+
+ #prelaunch form.newsletter input.text-field:focus {
+     outline: 0;
+ }
+
+/***** TOOLTIP ****/
+
+div.tooltip {
+    width: 120px;
+    margin-top: 0;
+}
+
+div.tooltip.in {
+    opacity: 1;
+}
+
+div.tooltip-inner {
+    border-radius: 0;
+    max-width: 120px;
+    display: block;
+    padding: 10px;
+    text-transform: uppercase;
+    font-size: 10px;
+    font-weight: 700;
+}
+
+div.tooltip.bottom div.tooltip-arrow {
+    border-width: 0 9px 9px;
+    margin-left: -9px;
+    top: -1px;
+    border-bottom-color: inherit;
+}
+
+div.tooltip.top div.tooltip-arrow {
+    margin-left: -9px;
+    border-width: 9px 9px 0;
+    border-top-color: inherit;
+}
+
+/* Media queries for responsive */
+
+/* ANDROID TABLETS */
+@media (max-width: 767px) {
+    #prelaunch.container {
+        padding: 35px 20px 0 20px
+    }
+
+    #prelaunch .yit-box {
+        margin-bottom: 35px;
+    }
+
+    #prelaunch .newsletter .email-field {
+        margin-bottom: 15px;
+    }
+    #prelaunch .countdown {
+        margin-bottom: 55px;
+    }
+
+    #prelaunch .logo,
+    #prelaunch .message {
+        margin-bottom: 35px;
+    }
+
+    #prelaunch .logo img {
+        display: inline-block;
+    }
+
+    #prelaunch .countdown_message {
+        margin-bottom: 45px;
+    }
+
+}
+
+/* MOBILE PHONES */
+@media (max-width: 480px) {
+    #prelaunch .message {
+        padding: 0;
+        margin-bottom: 35px;
+    }
+
+    #prelaunch .countdown > div {
+        width: 50%;
+        padding-bottom: 20px;
+    }
+
+    #prelaunch .countdown_message {
+        margin-bottom: 30px;
+    }
+
+}
+
+/* IPAD PORTRAIT */
+@media (min-width: 768px) and (max-width: 979px) {
+    #prelaunch .newsletter .email-field {
+        margin-bottom: 15px;
+    }
+
+    #prelaunch .yit-box {
+        margin-bottom: 35px;
+    }
+}
+
+/* IPAD LANDSCAPE */
+@media (min-width: 980px) and (max-width: 1199px) {
+
+}
+
+/* LARGE DESKTOP */
+@media (min-width: 1200px) {
+    #prelaunch.container{
+        width: 950px;
+    }
+}

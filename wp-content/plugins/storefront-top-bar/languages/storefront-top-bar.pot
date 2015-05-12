@@ -1,0 +1,58 @@
+# Copyright (C) 2015 Storefront Top Bar
+# This file is distributed under the same license as the Storefront Top Bar package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Storefront Top Bar 1.0.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/storefront-top-bar\n"
+"POT-Creation-Date: 2015-01-27 14:35:53+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: storefront-top-bar.php:129
+#: storefront-top-bar.php:138
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: storefront-top-bar.php:148
+msgid "Support"
+msgstr ""
+
+#: storefront-top-bar.php:176
+msgid "%sThanks for installing the Storefront Top Bar extension. To get started, visit the %sCustomizer%s.%s %sOpen the Customizer%s"
+msgstr ""
+
+#: storefront-top-bar.php:201
+msgid "Top Bar"
+msgstr ""
+
+#: storefront-top-bar.php:245
+msgid "Top Bar"
+msgstr ""
+
+#: storefront-top-bar.php:289
+msgid "Background Color"
+msgstr ""
+
+#: storefront-top-bar.php:300
+msgid "Text Color"
+msgstr ""
+
+#: storefront-top-bar.php:311
+msgid "Link Color"
+msgstr ""
+
+#: storefront-top-bar.php:322
+msgid "Mobile Display"
+msgstr ""
+
+#: storefront-top-bar.php:327
+msgid "Show"
+msgstr ""
+
+#: storefront-top-bar.php:328
+msgid "Hide"
+msgstr ""

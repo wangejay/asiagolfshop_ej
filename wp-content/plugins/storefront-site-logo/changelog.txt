@@ -1,0 +1,12 @@
+*** Storefront Site Logo Changelog ***
+
+1.1.1
+* fixed - logo not auto-linking to homepage
+
+1.1.0
+* added language support
+* updated plugin to use storefront extension boilerplate
+* changed logo wrapper class to match default css
+
+1.0.0
+* initial release

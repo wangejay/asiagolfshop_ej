@@ -1,0 +1,98 @@
+body,
+.site {
+	overflow-x: hidden;
+}
+
+.sph-hero {
+	margin-bottom: 2.618em;
+	text-align: center;
+	background-position: 50% 0;
+	position: relative;
+	margin-left: -1.618em;
+	margin-right: -1.618em;
+	background-attachment: fixed;
+}
+
+.sph-hero .overlay {
+	padding: 2.618em;
+}
+
+.sph-hero .col-full {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.sph-hero.fixed {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.sph-hero h1 {
+	font-weight: 700;
+}
+
+.sph-hero p:last-child {
+	margin-bottom: 0;
+}
+
+.sph-hero.left {
+	text-align: left;
+}
+
+.sph-hero.right {
+	text-align: right;
+}
+
+.page-template-template-homepage .site-main .sph-hero:first-child {
+	margin-top: -4.236em;
+}
+
+@media screen and (min-width: 768px) {
+	.sph-hero {
+		margin-bottom: 4.236em;
+		margin-left: -2.618em;
+		margin-right: -2.618em;
+	}
+
+	.sph-hero .overlay {
+		padding: 9.505em;
+	}
+
+	.sph-hero.left p,
+	.sph-hero.left h1 {
+		margin-left: 0;
+		margin-right: 40%;
+	}
+
+	.sph-hero.right p,
+	.sph-hero.right h1 {
+		margin-right: 0;
+		margin-left: 40%;
+	}
+
+	.sph-hero p,
+	.sph-hero h1 {
+		margin-left: 20%;
+		margin-right: 20%;
+	}
+
+	/**
+	 * Storefront Designer integration
+	 */
+	.sd-fixed-width .sph-hero {
+		margin-left: 0;
+		margin-right: 0;
+	}
+
+	.sd-fixed-width .sph-hero.full {
+		margin-left: -5.4285em;
+		margin-right: -5.4285em;
+	}
+}
+
+@media screen and (min-width: 1024px) {
+	.sph-hero {
+		margin-left: -55em;
+		margin-right: -55em;
+	}
+}

@@ -1,0 +1,4 @@
+*** Storefront Top Bar Changelog ***
+
+1.0.0
+* Initial release

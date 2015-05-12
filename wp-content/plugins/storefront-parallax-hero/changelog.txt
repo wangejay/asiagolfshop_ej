@@ -1,0 +1,39 @@
+*** Storefront Parallax Hero Changelog ***
+
+2015.04.29 - version 1.2.0
+ * New - Rearranged settings into Customizer Panels.
+ * New - Link color option.
+ * Tweak - Only display Customizer settings on homepage.
+ * Fix - Full height padding on small screens.
+
+2015.04.27 - version 1.1.5
+* Fix - Improve animation smoothness.
+
+2015.04.14 - version 1.1.4
+* Fix - Component positioning when used as the first element in the homepage template.
+
+2015.02.16 - version 1.1.3
+* Fix - Parallax effect.
+
+2015.02.13 - version 1.1.2
+* Fix - Horizontal scrollbar when using full width layout.
+* Tweak - Hero section title in Customizer.
+
+2015.01.27 - version 1.1.1
+* Tweak - Hide the 'More' section in the Customizer.
+
+2014.12.09 - version 1.1.0
+* New - "Full height" setting
+* New - Shortcode accepts parameters for custom hero components.
+* Dev - Register assets before enqueueing
+
+2014.11.25 - version 1.0.2
+* Fix - Now works with child themes
+
+2014.11.24 - version 1.0.1
+* Fix - Shortcode buffering.
+* Fix - Integration with Homepage Control plugin.
+* Localisation - Added .pot file.
+
+2014.09.09 - version 1.0.0
+* Initial release

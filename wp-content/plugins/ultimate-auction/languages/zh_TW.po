@@ -1,0 +1,1347 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultimate Auction\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-04-09 20:37+0530\n"
+"PO-Revision-Date: 2015-05-15 15:38+0800\n"
+"Last-Translator: \n"
+"Language-Team: WisdmLabs\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_n\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.7.6\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: /home/praveen/UA/ultimate-auction\n"
+
+#: /home/praveen/UA/ultimate-auction/auction-feeder-page.php:26
+#, php-format
+msgid "Page %1$s of %2$s"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/auction-feeder-page.php:86
+msgid "Product"
+msgstr "商品"
+
+#: /home/praveen/UA/ultimate-auction/auction-feeder-page.php:88
+#: /home/praveen/UA/ultimate-auction/manage-auctions.php:118
+msgid "Current Price"
+msgstr "當前價格"
+
+#: /home/praveen/UA/ultimate-auction/auction-feeder-page.php:89
+#: /home/praveen/UA/ultimate-auction/manage-auctions.php:204
+#: /home/praveen/UA/ultimate-auction/manage-auctions.php:214
+msgid "Bids Placed"
+msgstr "使用者出價"
+
+#: /home/praveen/UA/ultimate-auction/auction-feeder-page.php:90
+#: /home/praveen/UA/ultimate-auction/ajax-actions/end-auction.php:9
+msgid "Ending"
+msgstr "結束時間"
+
+#: /home/praveen/UA/ultimate-auction/auction-feeder-page.php:140
+#, php-format
+msgid "Buy at %s%s %s"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/auction-feeder-page.php:152
+#: /home/praveen/UA/ultimate-auction/manage-auctions.php:96
+msgid "No bids placed"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/auction-feeder-page.php:166
+#: /home/praveen/UA/ultimate-auction/auction-feeder-page.php:202
+#: /home/praveen/UA/ultimate-auction/auction-feeder-page.php:210
+msgid "Expired"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/auction-feeder-page.php:180
+#: /home/praveen/UA/ultimate-auction/ultimate-auction.php:584
+#: /home/praveen/UA/ultimate-auction/auction-shortcode.php:656
+#: /home/praveen/UA/ultimate-auction/auction-description-tabs.php:183
+msgid "days"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/auction-feeder-page.php:182
+#: /home/praveen/UA/ultimate-auction/ultimate-auction.php:580
+#: /home/praveen/UA/ultimate-auction/auction-shortcode.php:652
+#: /home/praveen/UA/ultimate-auction/auction-description-tabs.php:185
+msgid "day"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/auction-feeder-page.php:186
+#: /home/praveen/UA/ultimate-auction/ultimate-auction.php:591
+#: /home/praveen/UA/ultimate-auction/auction-shortcode.php:669
+#: /home/praveen/UA/ultimate-auction/auction-description-tabs.php:189
+msgid "hours"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/auction-feeder-page.php:188
+#: /home/praveen/UA/ultimate-auction/ultimate-auction.php:587
+#: /home/praveen/UA/ultimate-auction/auction-shortcode.php:665
+#: /home/praveen/UA/ultimate-auction/auction-description-tabs.php:191
+msgid "hour"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/auction-feeder-page.php:192
+#: /home/praveen/UA/ultimate-auction/ultimate-auction.php:598
+#: /home/praveen/UA/ultimate-auction/auction-shortcode.php:682
+#: /home/praveen/UA/ultimate-auction/auction-description-tabs.php:195
+msgid "minutes"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/auction-feeder-page.php:194
+#: /home/praveen/UA/ultimate-auction/ultimate-auction.php:594
+#: /home/praveen/UA/ultimate-auction/auction-shortcode.php:678
+#: /home/praveen/UA/ultimate-auction/auction-description-tabs.php:197
+msgid "minute"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/auction-feeder-page.php:198
+#: /home/praveen/UA/ultimate-auction/ultimate-auction.php:605
+#: /home/praveen/UA/ultimate-auction/auction-shortcode.php:695
+#: /home/praveen/UA/ultimate-auction/auction-description-tabs.php:201
+msgid "seconds"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/auction-feeder-page.php:200
+#: /home/praveen/UA/ultimate-auction/ultimate-auction.php:601
+#: /home/praveen/UA/ultimate-auction/auction-shortcode.php:691
+#: /home/praveen/UA/ultimate-auction/auction-description-tabs.php:203
+msgid "second"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/auction-feeder-page.php:217
+msgid "Bid Now"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/add-new-auction.php:72
+msgid "Auction updated successfully."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/add-new-auction.php:75
+#, php-format
+msgid "Auction reactivated successfully. Auction id is %d"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/add-new-auction.php:81
+#, php-format
+msgid "Auction created successfully. Auction id is %d"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/add-new-auction.php:120
+msgid "Please enter a future date/time."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/add-new-auction.php:127
+msgid "Auction title and Auction description cannot be left blank."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/add-new-auction.php:132
+#: /home/praveen/UA/ultimate-auction/settings-page.php:433
+msgid "Sorry, your nonce did not verify."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/add-new-auction.php:145
+msgid "Update Auction"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/add-new-auction.php:147
+msgid "Add New Auction"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/add-new-auction.php:160
+msgid "Bidding Engine"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/add-new-auction.php:164
+#: /home/praveen/UA/ultimate-auction/settings-page.php:491
+msgid "Simple Bidding"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/add-new-auction.php:188
+msgid "Product Title"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/add-new-auction.php:196
+msgid "Product Description"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/add-new-auction.php:211
+msgid "Product Short Description"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/add-new-auction.php:215
+msgid ""
+"Enter short description (excerpt) for the product. This description is shown "
+"on the auctions listing page."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/add-new-auction.php:229
+#: /home/praveen/UA/ultimate-auction/add-new-auction.php:248
+msgid "Product Image/Video"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/add-new-auction.php:233
+msgid "Select File"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/add-new-auction.php:241
+msgid "Thumbnail Image"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/add-new-auction.php:258
+msgid "Opening Price"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/add-new-auction.php:267
+msgid "Lowest Price to Accept"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/add-new-auction.php:273
+msgid "Set Reserve price for your auction."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/add-new-auction.php:275
+msgid ""
+"A reserve price is the lowest price at which you are willing to sell your "
+"item. If you don't want to sell your item below a certain price, you can a "
+"set a reserve price. The amount of your reserve price is not disclosed to "
+"your bidders, but they will see that your auction has a reserve price and "
+"whether or not the reserve has been met. If a bidder does not meet that "
+"price, you're not obligated to sell your item."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/add-new-auction.php:276
+msgid "Why have a reserve price?"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/add-new-auction.php:277
+msgid ""
+"Many sellers have found that too high a starting price discourages interest "
+"in their item, while an attractively low starting price makes them "
+"vulnerable to selling at an unsatisfactorily low price. A reserve price "
+"helps with this."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/add-new-auction.php:285
+msgid "Incremental Value"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/add-new-auction.php:290
+msgid "Set an amount from which next bid should start."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/add-new-auction.php:295
+#: /home/praveen/UA/ultimate-auction/manage-auctions.php:50
+msgid "Ending Date"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/add-new-auction.php:301
+#, php-format
+msgid "Current blog time is %s"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/add-new-auction.php:302
+msgid "Timezone:"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/add-new-auction.php:305
+#, php-format
+msgid "Please select your Timezone at %s Tab of the plugin."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/add-new-auction.php:305
+#: /home/praveen/UA/ultimate-auction/settings-page.php:110
+#: /home/praveen/UA/ultimate-auction/settings-page.php:152
+msgid "Settings"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/add-new-auction.php:311
+#: /home/praveen/UA/ultimate-auction/manage-auctions.php:106
+#: /home/praveen/UA/ultimate-auction/manage-auctions.php:107
+msgid "Buy Now Price"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/add-new-auction.php:316
+msgid "Visitors can buy your auction by making payments via PayPal."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/add-new-auction.php:323
+msgid "Payment Method"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/add-new-auction.php:336
+#: /home/praveen/UA/ultimate-auction/auction-shortcode.php:88
+#: /home/praveen/UA/ultimate-auction/auction-shortcode.php:493
+#: /home/praveen/UA/ultimate-auction/settings-page.php:681
+#: /home/praveen/UA/ultimate-auction/payment.php:5
+#: /home/praveen/UA/ultimate-auction/payment.php:134
+msgid "Cash"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/add-new-auction.php:338
+msgid ""
+"Only those methods will be active for which you've entered details inside "
+"plugin's settings page."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/add-new-auction.php:352
+#: /home/praveen/UA/ultimate-auction/settings-page.php:182
+#: /home/praveen/UA/ultimate-auction/payment.php:76
+#: /home/praveen/UA/ultimate-auction/payment.php:100
+#: /home/praveen/UA/ultimate-auction/payment.php:123
+#: /home/praveen/UA/ultimate-auction/payment.php:146
+msgid "Save Changes"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/ultimate-auction.php:74
+#: /home/praveen/UA/ultimate-auction/ultimate-auction.php:453
+msgid "Email sent successfully."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/ultimate-auction.php:76
+#: /home/praveen/UA/ultimate-auction/ultimate-auction.php:455
+msgid "Sorry, the email could not sent."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/ultimate-auction.php:121
+#, php-format
+msgid "Auction %s and its attachments are deleted successfully."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/ultimate-auction.php:124
+msgid "Sorry, this auction cannot be deleted."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/ultimate-auction.php:170
+msgid "Auctions and their attachments are deleted successfully."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/ultimate-auction.php:173
+msgid "Sorry, the auctions cannot be deleted."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/ultimate-auction.php:189
+#, php-format
+msgid "Auction %s ended successfully."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/ultimate-auction.php:191
+msgid "Sorry, this auction cannot be ended."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/ultimate-auction.php:214
+#, php-format
+msgid "Bid entry of %s was removed successfully."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/ultimate-auction.php:216
+msgid "Sorry, bid entry cannot be removed."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/ultimate-auction.php:436
+msgid "You have a private message from a site visitor"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/ultimate-auction.php:439
+#: /home/praveen/UA/ultimate-auction/auction-description-tabs.php:138
+msgid "Name"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/ultimate-auction.php:440
+#: /home/praveen/UA/ultimate-auction/auction-description-tabs.php:141
+#: /home/praveen/UA/ultimate-auction/settings-page.php:173
+msgid "Email"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/ultimate-auction.php:441
+#: /home/praveen/UA/ultimate-auction/auction-description-tabs.php:144
+msgid "Message"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/ultimate-auction.php:442
+#: /home/praveen/UA/ultimate-auction/email-template.php:48
+#: /home/praveen/UA/ultimate-auction/email-template.php:192
+#: /home/praveen/UA/ultimate-auction/email-template.php:206
+#: /home/praveen/UA/ultimate-auction/email-template.php:223
+msgid "Product URL"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/ultimate-auction.php:475
+#: /home/praveen/UA/ultimate-auction/settings-page.php:306
+msgid "Powered By Ultimate Auction"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/ultimate-auction.php:509
+#: /home/praveen/UA/ultimate-auction/auction-shortcode.php:64
+msgid "Thank you for buying this product."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/ultimate-auction.php:639
+msgid "Mandatory Settings:"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/ultimate-auction.php:641
+#, php-format
+msgid ""
+"It is mandatory to set %1$s (if not already set) and enable %2$s (if not "
+"already enabled) in your PayPal account for proper functioning of payment "
+"related features."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/ultimate-auction.php:643
+#: /home/praveen/UA/ultimate-auction/settings-page.php:706
+#: /home/praveen/UA/ultimate-auction/settings-page.php:727
+#: /home/praveen/UA/ultimate-auction/settings-page.php:745
+msgid "?"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/ultimate-auction.php:645
+msgid ""
+"Whenever a visitor clicks on 'Buy it Now' button of a product/auction, he is "
+"redirected to PayPal where he can make payment for that product/auction."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/ultimate-auction.php:647
+#, php-format
+msgid ""
+"After making payment he is again redirected automatically (if the %s has "
+"been set) to this site and then the auction expires."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/ultimate-auction.php:651
+msgid "How to do these settings?"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/ultimate-auction.php:655
+msgid "1. Log in to your PayPal account"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/ultimate-auction.php:657
+#, php-format
+msgid "2. Under %2$s -> click %1$s."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/ultimate-auction.php:659
+#, php-format
+msgid "3. Click %s (on LHS)"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/ultimate-auction.php:661
+#, php-format
+msgid "4. Go to %1$s (on RHS) -> %2$s -> Click %3$s link (next to %4$s)"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/ultimate-auction.php:663
+#, php-format
+msgid "5. %s page will open."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/ultimate-auction.php:666
+#, php-format
+msgid "6. Enable %s."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/ultimate-auction.php:668
+#, php-format
+msgid "7. Set a URL in %s box. Enter feed page URL."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/ultimate-auction.php:670
+#, php-format
+msgid ""
+"8. Enable %1$s option (if the %2$s is not set, %3$s can not be enabled)."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/ultimate-auction.php:672
+#, php-format
+msgid "9. Scroll down and click the %s button."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/auction-shortcode.php:72
+#: /home/praveen/UA/ultimate-auction/auction-shortcode.php:487
+#: /home/praveen/UA/ultimate-auction/settings-page.php:681
+#: /home/praveen/UA/ultimate-auction/payment.php:3
+#: /home/praveen/UA/ultimate-auction/payment.php:87
+msgid "Wire Transfer"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/auction-shortcode.php:80
+#: /home/praveen/UA/ultimate-auction/auction-shortcode.php:490
+#: /home/praveen/UA/ultimate-auction/settings-page.php:681
+#: /home/praveen/UA/ultimate-auction/payment.php:4
+#: /home/praveen/UA/ultimate-auction/payment.php:111
+msgid "Cheque"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/auction-shortcode.php:98
+#, php-format
+msgid "You can make the payment by %s"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/auction-shortcode.php:101
+msgid "Details"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/auction-shortcode.php:103
+msgid "Go Back"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/auction-shortcode.php:280
+msgid "Ended at"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/auction-shortcode.php:280
+#: /home/praveen/UA/ultimate-auction/auction-description-tabs.php:218
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/auction-shortcode.php:289
+#: /home/praveen/UA/ultimate-auction/auction-shortcode.php:362
+msgid "Bid"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/auction-shortcode.php:289
+#: /home/praveen/UA/ultimate-auction/auction-shortcode.php:362
+msgid "Bids"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/auction-shortcode.php:301
+#, php-format
+msgid "This auction has been bought by %s at %s"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/auction-shortcode.php:318
+#, php-format
+msgid "This auction has been sold to %1$s at %2$s."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/auction-shortcode.php:322
+msgid "Auction has expired without reaching its reserve price."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/auction-shortcode.php:328
+msgid "Auction has expired without buying."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/auction-shortcode.php:330
+msgid "Auction has expired without any bids."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/auction-shortcode.php:354
+#, php-format
+msgid "Ending in: %s"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/auction-shortcode.php:369
+msgid "Reserve price has been met."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/auction-shortcode.php:375
+msgid "Reserve price has not been met by any bid."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/auction-shortcode.php:391
+#: /home/praveen/UA/ultimate-auction/auction-shortcode.php:417
+#: /home/praveen/UA/ultimate-auction/email-template.php:190
+#: /home/praveen/UA/ultimate-auction/email-template.php:208
+#: /home/praveen/UA/ultimate-auction/email-template.php:225
+msgid "Bid Value"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/auction-shortcode.php:392
+#: /home/praveen/UA/ultimate-auction/auction-shortcode.php:418
+#, php-format
+msgid "in %s"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/auction-shortcode.php:394
+#: /home/praveen/UA/ultimate-auction/auction-shortcode.php:420
+#, php-format
+msgid "Enter %.2f or more"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/auction-shortcode.php:405
+#: /home/praveen/UA/ultimate-auction/auction-shortcode.php:425
+msgid "Place Bid"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/auction-shortcode.php:425
+#: /home/praveen/UA/ultimate-auction/auction-shortcode.php:530
+msgid "Login"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/auction-shortcode.php:466
+#: /home/praveen/UA/ultimate-auction/auction-shortcode.php:496
+#: /home/praveen/UA/ultimate-auction/auction-shortcode.php:531
+#, php-format
+msgid "Buy it now for %s%s %s"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/auction-shortcode.php:502
+#, php-format
+msgid "Buy it now for %s%s %s + %s%s %s(shipping)"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/auction-shortcode.php:518
+#, php-format
+msgid ""
+"You need to pay %s %.2f amount via %s to %s. If you choose OK, you will "
+"receive an email with payment details and auction will expire. Choose Cancel "
+"to ignore this buy now transaction."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/auction-shortcode.php:541
+msgid "Sorry, you can not bid on your own item."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/email-template.php:15
+msgid "Congratulations! You have won an auction"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/email-template.php:20
+msgid "Hi"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/email-template.php:21
+#, php-format
+msgid ""
+"This is to inform you that you have won the auction at WEBSITE URL %s. Here "
+"are the auction details"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/email-template.php:49
+#: /home/praveen/UA/ultimate-auction/email-template.php:193
+#: /home/praveen/UA/ultimate-auction/email-template.php:207
+#: /home/praveen/UA/ultimate-auction/email-template.php:224
+msgid "Product Name"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/email-template.php:50
+#: /home/praveen/UA/ultimate-auction/email-template.php:194
+#: /home/praveen/UA/ultimate-auction/email-template.php:209
+#: /home/praveen/UA/ultimate-auction/email-template.php:226
+#: /home/praveen/UA/ultimate-auction/auction-description-tabs.php:4
+msgid "Description"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/email-template.php:71
+#, php-format
+msgid ""
+"You can contact ADMIN at %1$s for delivery of the item and pay %2$s through "
+"PayPal"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/email-template.php:77
+msgid "Kindly, click on above URL to make payment"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/email-template.php:86
+#, php-format
+msgid "%s by wire transfer"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/email-template.php:90
+#, php-format
+msgid "You can pay %s by Wire Transfer."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/email-template.php:93
+#: /home/praveen/UA/ultimate-auction/payment.php:91
+msgid "Wire Transfer Details"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/email-template.php:102
+#, php-format
+msgid "%s by cheque"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/email-template.php:106
+#, php-format
+msgid "You can pay %s by Cheque."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/email-template.php:109
+#: /home/praveen/UA/ultimate-auction/payment.php:115
+msgid "Mailing Address & Cheque Details"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/email-template.php:118
+#, php-format
+msgid "%s by Cash"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/email-template.php:122
+#, php-format
+msgid "You can pay %s by Cash."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/email-template.php:128
+msgid "Cash Details"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/email-template.php:185
+msgid "A bidder has placed a bid on the product"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/email-template.php:187
+msgid "Bidder Details"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/email-template.php:188
+#: /home/praveen/UA/ultimate-auction/auction-description-tabs.php:160
+msgid "Bidder Name"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/email-template.php:189
+msgid "Bidder Email"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/email-template.php:191
+msgid "Product Details"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/email-template.php:203
+msgid "You recently placed a bid on the product"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/email-template.php:205
+#: /home/praveen/UA/ultimate-auction/email-template.php:222
+msgid "Here are the details"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/email-template.php:220
+msgid "You have been outbid on the product"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/auction-description-tabs.php:7
+msgid "Comments"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/auction-description-tabs.php:10
+msgid "Send Private Message"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/auction-description-tabs.php:12
+msgid "Total bids placed"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/auction-description-tabs.php:43
+msgid " comment for this Auction"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/auction-description-tabs.php:45
+msgid " comments for this Auction"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/auction-description-tabs.php:70
+#: /home/praveen/UA/ultimate-auction/auction-description-tabs.php:100
+msgid "Edit this comment"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/auction-description-tabs.php:70
+#: /home/praveen/UA/ultimate-auction/auction-description-tabs.php:100
+msgid "edit comment"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/auction-description-tabs.php:127
+msgid "No comments for this Auction"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/auction-description-tabs.php:147
+#: /home/praveen/UA/ultimate-auction/ajax-actions/send-private-msg.php:44
+msgid "Send"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/auction-description-tabs.php:161
+msgid "Bid Price"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/auction-description-tabs.php:162
+msgid "When"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/manage-auctions.php:50
+msgid "Creation Date"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/manage-auctions.php:60
+msgid "Edit"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/manage-auctions.php:60
+#: /home/praveen/UA/ultimate-auction/manage-auctions.php:64
+#: /home/praveen/UA/ultimate-auction/manage-auctions.php:302
+#: /home/praveen/UA/ultimate-auction/ajax-actions/delete-auction.php:17
+msgid "Delete"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/manage-auctions.php:60
+#: /home/praveen/UA/ultimate-auction/ajax-actions/end-auction.php:16
+msgid "End Auction"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/manage-auctions.php:64
+msgid "Reactivate"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/manage-auctions.php:87
+#: /home/praveen/UA/ultimate-auction/ajax-actions/cancel-bidder.php:16
+msgid "Cancel Last Bid"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/manage-auctions.php:92
+msgid "See more"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/manage-auctions.php:117
+#: /home/praveen/UA/ultimate-auction/manage-auctions.php:120
+msgid "Starting Price"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/manage-auctions.php:121
+msgid "Final Price"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/manage-auctions.php:135
+#, php-format
+msgid "Method : %s"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/manage-auctions.php:140
+msgid "Auction has been bought by paying Buy Now price"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/manage-auctions.php:143
+#, php-format
+msgid "Bought by %s"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/manage-auctions.php:143
+msgid "Price"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/manage-auctions.php:163
+#, php-format
+msgid "Won by %s"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/manage-auctions.php:169
+msgid "Yes"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/manage-auctions.php:171
+msgid "No"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/manage-auctions.php:173
+#: /home/praveen/UA/ultimate-auction/ajax-actions/resend-email.php:18
+msgid "Resend"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/manage-auctions.php:179
+msgid "Auction has expired without reaching its reserve price"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/manage-auctions.php:199
+#: /home/praveen/UA/ultimate-auction/manage-auctions.php:209
+msgid "ID"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/manage-auctions.php:200
+#: /home/praveen/UA/ultimate-auction/manage-auctions.php:210
+msgid "Image"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/manage-auctions.php:201
+#: /home/praveen/UA/ultimate-auction/manage-auctions.php:211
+msgid "Title"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/manage-auctions.php:202
+#: /home/praveen/UA/ultimate-auction/manage-auctions.php:212
+msgid "Creation / Ending Date"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/manage-auctions.php:203
+msgid "Starting / Current Price"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/manage-auctions.php:205
+#: /home/praveen/UA/ultimate-auction/manage-auctions.php:216
+msgid "Actions"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/manage-auctions.php:213
+msgid "Starting / Final Price"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/manage-auctions.php:215
+msgid "Email For Payment"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/manage-auctions.php:297
+msgid "Live Auctions"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/manage-auctions.php:298
+msgid "Expired Auctions"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/manage-auctions.php:303
+msgid "Apply"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/settings-page.php:61
+msgid "This field is required."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/settings-page.php:62
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/settings-page.php:63
+msgid "Please enter a valid URL."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/settings-page.php:64
+msgid "Please enter a valid number."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/settings-page.php:65
+msgid "Please enter a value greater than or equal to 0"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/settings-page.php:109
+#: /home/praveen/UA/ultimate-auction/settings-page.php:140
+msgid "Ultimate Auction"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/settings-page.php:111
+#: /home/praveen/UA/ultimate-auction/settings-page.php:153
+#: /home/praveen/UA/ultimate-auction/settings-page.php:171
+msgid "Payment"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/settings-page.php:113
+#: /home/praveen/UA/ultimate-auction/settings-page.php:155
+msgid "Add Auction"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/settings-page.php:114
+#: /home/praveen/UA/ultimate-auction/settings-page.php:156
+msgid "Manage Auctions"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/settings-page.php:116
+#: /home/praveen/UA/ultimate-auction/settings-page.php:158
+msgid "Support"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/settings-page.php:130
+msgid "Showing All"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/settings-page.php:130
+msgid "Showing Top 5"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/settings-page.php:172
+msgid "Auction"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/settings-page.php:204
+msgid "Settings saved."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/settings-page.php:224
+msgid "General Settings"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/settings-page.php:231
+msgid "Timezone"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/settings-page.php:244
+msgid "Default Bidding Engine"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/settings-page.php:256
+msgid "How many auctions should list on one feed page?"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/settings-page.php:264
+msgid "Auction Page URL"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/settings-page.php:274
+msgid "Login Page URL"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/settings-page.php:282
+msgid "Register Page URL"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/settings-page.php:290
+msgid "Show Comment Section"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/settings-page.php:298
+msgid "Show Send Private Message"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/settings-page.php:317
+msgid "Email Settings"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/settings-page.php:324
+msgid "Email for receiving bid notification"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/settings-page.php:334
+msgid "Payment Settings"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/settings-page.php:341
+msgid "Currency"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/settings-page.php:349
+msgid "Enable Payment Options"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/settings-page.php:357
+msgid "You should fill data for atleast one payment method."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/settings-page.php:358
+msgid "Please enter Product Title."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/settings-page.php:359
+msgid "Please enter Ending Date/Time."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/settings-page.php:360
+msgid ""
+"You should fill PayPal email address in 'Settings' tab to enable 'Buy Now' "
+"feature."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/settings-page.php:361
+msgid "Please enter Opening Price."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/settings-page.php:362
+msgid "Please enter Lowest Price (Reserve Price)."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/settings-page.php:363
+msgid "Please enter either Opening Price or Buy Now price."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/settings-page.php:364
+msgid ""
+"You have entered Opening Price. Please also enter Lowest Price (Reserve "
+"Price)."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/settings-page.php:365
+msgid "You have entered Lowest Price. Please also enter Opening Price."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/settings-page.php:366
+msgid "You have entered Incremental Value. Please also enter Opening Price."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/settings-page.php:367
+msgid "Lowest/Reserve price should be more than or equal to Opening Price."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/settings-page.php:368
+msgid "Buy Now price should be more than or equal to Lowest/Reserve price."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/settings-page.php:369
+msgid "Incremental Value should be greater than 0."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/settings-page.php:388
+#: /home/praveen/UA/ultimate-auction/ajax-actions/send-private-msg.php:21
+msgid "Please enter a valid Email address"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/settings-page.php:460
+msgid "Please enter a number greater than or equal to 1."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/settings-page.php:475
+msgid "Select your Timezone"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/settings-page.php:481
+msgid "Please select your local Timezone."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/settings-page.php:499
+msgid "Please select a default bidding engine."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/settings-page.php:510
+msgid "Nope - Got No Love"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/settings-page.php:512
+msgid "Yep - I Love You Man"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/settings-page.php:516
+msgid "Can we show a cool stylish footer credit at the bottom the page?"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/settings-page.php:676
+msgid "This currency is not available for PayPal."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/settings-page.php:681
+#: /home/praveen/UA/ultimate-auction/settings-page.php:685
+#: /home/praveen/UA/ultimate-auction/payment.php:2
+#: /home/praveen/UA/ultimate-auction/payment.php:47
+msgid "PayPal"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/settings-page.php:696
+msgid ""
+"NOTE: If you choose to activate any payment method, please go to Payment tab "
+"and enter its details. For example: if you enable Wire Transfer, go to "
+"Payment -> Wire Transfer and enter its details. Same would apply to Paypal "
+"and Cheque."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/settings-page.php:704
+msgid "Enter your auction feeder page URL."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/settings-page.php:708
+msgid ""
+"If you want to make each auction title as a link to the front end single "
+"auction page in 'Title' columns of the plugin dashboard, you'll need to "
+"enter front end URL of the page where you have used shortcode for auctions "
+"listing."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/settings-page.php:710
+msgid ""
+"NOTE: Whenever you change the permalink, do not forget to enter the modified "
+"URL here. Also, if you select auction page as Home page, do not enter Home "
+"page URL, instead use actual full URL of the feeder page."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/settings-page.php:714
+msgid "Use this shortcode in a page to make it auction feeder page:"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/settings-page.php:725
+msgid "Enter Custom Login page URL (if have any)."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/settings-page.php:729
+msgid ""
+"If your site has a custom Login page and you want the bidders should log in "
+"through that page, you should set its URL here, so that while placing the "
+"bid, non logged in bidders should visit the custom Login page and not the "
+"default WordPress Login page. Please note, with the custom login URL the "
+"bidder will not be redirected automatically to the auction page where he/she "
+"was going to place the bid. As of now, this functionality works with the "
+"default WordPress Login page only. Also, whenever you change the permalink, "
+"do not forget to enter the modified URL over here."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/settings-page.php:731
+msgid ""
+"NOTE: If your site uses default WordPress Login page. You don't need to set "
+"it."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/settings-page.php:743
+msgid "Enter Custom Registration page URL (if have any)."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/settings-page.php:747
+msgid ""
+"If your site has a custom Register page and you want the bidders should "
+"register through that page, you should set its URL here, so that while "
+"placing the bid, non registered bidders should visit the custom Register "
+"page and not the default WordPress Register page. Also, whenever you change "
+"the permalink, do not forget to enter the modified URL over here."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/settings-page.php:749
+msgid ""
+"NOTE: If your site uses default WordPress Register page. You don't need to "
+"set it."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/settings-page.php:766
+msgid "Choose Yes if you want to display comments tab under auction."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/settings-page.php:779
+msgid "Choose Yes if you want to display private message section."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/payment.php:51
+msgid "PayPal Email Address"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/payment.php:60
+msgid "PayPal Account Type"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/payment.php:70
+#, php-format
+msgid "Select 'Sandbox' option when testing with your %s email address."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/payment.php:96
+msgid ""
+"Enter your wire transfer details. This will be sent to the highest bidder."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/payment.php:119
+msgid ""
+"Enter your mailing address where you want to receive checks by mail. This "
+"will be sent to the highest bidder."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/payment.php:138
+msgid "Customer Message (optional)"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/payment.php:142
+msgid ""
+"By choosing this payment method, PRO would send a congratulatory email "
+"mentioning that final bidder should pay in cash the final bidding amount to "
+"auctioneer for the auctioned item."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/help-and-support.php:5
+msgid "Help & Support Links"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/ajax-actions/multi-delete.php:34
+msgid "Please select auction(s) to delete."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/ajax-actions/multi-delete.php:38
+msgid ""
+"Are you sure to delete selected auctions? All data related to the auctions "
+"(including bids and attachments) will be deleted."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/ajax-actions/multi-delete.php:41
+#: /home/praveen/UA/ultimate-auction/ajax-actions/delete-auction.php:9
+msgid "Deleting"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/ajax-actions/place-bid.php:15
+msgid "Please enter your Bid Amount"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/ajax-actions/place-bid.php:20
+msgid "Please enter a numeric value"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/ajax-actions/place-bid.php:51
+#, php-format
+msgid ""
+"Sorry, an another bidder has bid on the previous bid amount. Please enter a "
+"bid amount greater than or equal to %s"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/ajax-actions/place-bid.php:54
+#, php-format
+msgid "Please enter a bid amount greater than or equal to %s"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/ajax-actions/place-bid.php:62
+msgid "Sorry, this auction has been expired."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/ajax-actions/place-bid.php:68
+msgid ""
+"Sorry, your bid can not be placed. It seems that either a bidder has outbid "
+"you or the auction has been expired recently."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/ajax-actions/place-bid.php:80
+msgid ""
+"Congratulations! You have won this auction since your bid value has reached "
+"the 'Buy it Now' price."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/ajax-actions/place-bid.php:97
+msgid ""
+"Sorry, you have been outbid by the current highest bidder for 'Buy it now' "
+"price."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/ajax-actions/place-bid.php:115
+#: /home/praveen/UA/ultimate-auction/ajax-actions/place-bid.php:165
+msgid "Your Bid Placed Successfully!"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/ajax-actions/place-bid.php:129
+msgid ""
+"You can be winner if your bid reaches 'Buy it now' price by automatic "
+"bidding."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/ajax-actions/place-bid.php:146
+msgid "You have been outbid by the current highest bidder."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/ajax-actions/place-bid.php:172
+msgid "Sorry, your bid can not be placed."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/ajax-actions/resend-email.php:6
+#: /home/praveen/UA/ultimate-auction/ajax-actions/send-private-msg.php:29
+msgid "Sending"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/ajax-actions/cancel-bidder.php:6
+msgid ""
+"Are you sure to cancel last bid entry? All data related to bid and it's "
+"bidder will be deleted."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/ajax-actions/cancel-bidder.php:9
+msgid "Cancelling"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/ajax-actions/delete-auction.php:6
+msgid ""
+"Are you sure to delete this auction? All data related to this auction "
+"(including bids and attachments) will be deleted."
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/ajax-actions/end-auction.php:6
+msgid "Are you sure to end this auction?"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/ajax-actions/send-private-msg.php:13
+msgid "Please enter your Name"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/ajax-actions/send-private-msg.php:17
+msgid "Please enter your Email address"
+msgstr ""
+
+#: /home/praveen/UA/ultimate-auction/ajax-actions/send-private-msg.php:25
+msgid "Please enter a message"
+msgstr ""

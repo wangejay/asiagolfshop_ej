@@ -113,7 +113,7 @@ if ( ! function_exists( 'storefront_popular_products' ) ) {
 			echo '<section class="storefront-product-section storefront-popular-products">';
 
 			echo '<h2 class="section-title">' . esc_attr( $args['title'] ) . '</h2>';
-			echo do_shortcode( '[top_rated_products per_page="' . intval( $args['limit'] ) . '" columns="' . intval( $args['columns'] ) . '"]' );
+			echo do_shortcode( '[best_selling_products per_page="' . intval( $args['limit'] ) . '" columns="' . intval( $args['columns'] ) . '"]' );
 
 			echo '</section>';
 

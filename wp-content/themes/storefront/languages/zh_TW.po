@@ -6,24 +6,25 @@ msgstr ""
 "Project-Id-Version: Storefront\n"
 "Report-Msgid-Bugs-To: https://github.com/woothemes/storefront/issues\n"
 "POT-Creation-Date: 2015-04-23 10:33:15+00:00\n"
-"PO-Revision-Date: 2015-04-23 10:33+0000\n"
+"PO-Revision-Date: 2015-05-15 15:13+0800\n"
 "Last-Translator: James Koster <jay@woothemes.com>\n"
-"Language-Team: Chinese (Taiwan) (http://www.transifex.com/projects/p/storefront-1/language/zh_TW/)\n"
+"Language-Team: Chinese (Taiwan) (http://www.transifex.com/projects/p/"
+"storefront-1/language/zh_TW/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: zh_TW\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: grunt-wp-i18n 0.4.9\n"
+"X-Generator: Poedit 1.7.6\n"
 
 #: 404.php:15
 msgid "Oops! That page can&rsquo;t be found."
-msgstr ""
+msgstr "抱歉！此頁面不存在。"
 
 #: 404.php:19
 msgid ""
-"It looks like nothing was found at this location. Maybe try one of the links"
-" below or a search?"
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
 msgstr ""
 
 #: 404.php:27
@@ -66,8 +67,8 @@ msgstr ""
 
 #: content-none.php:28
 msgid ""
-"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
-"searching can help."
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching "
+"can help."
 msgstr ""
 
 #: inc/admin/welcome-screen/sections/add-ons.php:7
@@ -76,8 +77,8 @@ msgstr ""
 
 #: inc/admin/welcome-screen/sections/add-ons.php:10
 msgid ""
-"Below you will find a selection of free and commercial Storefront extensions"
-" that could help improve your online store."
+"Below you will find a selection of free and commercial Storefront extensions "
+"that could help improve your online store."
 msgstr ""
 
 #: inc/admin/welcome-screen/sections/add-ons.php:14
@@ -92,8 +93,8 @@ msgstr ""
 #: inc/admin/welcome-screen/sections/add-ons.php:16
 msgid ""
 "Jetpack is probably a plugin you're already familiar with. Storefront fully "
-"supports Jetpacks site logo feature making it easy to upload and display "
-"your logo via the Customizer. %sMore info &rarr;%s"
+"supports Jetpacks site logo feature making it easy to upload and display your "
+"logo via the Customizer. %sMore info &rarr;%s"
 msgstr ""
 
 #: inc/admin/welcome-screen/sections/add-ons.php:19
@@ -139,9 +140,9 @@ msgstr ""
 
 #: inc/admin/welcome-screen/sections/add-ons.php:42
 msgid ""
-"The Storefront Product Hero extension adds a parallax hero component to your"
-" homepage highlighting a specific product at your store. Use the shortcode "
-"to add attractive hero components to posts, pages or widgets."
+"The Storefront Product Hero extension adds a parallax hero component to your "
+"homepage highlighting a specific product at your store. Use the shortcode to "
+"add attractive hero components to posts, pages or widgets."
 msgstr ""
 
 #: inc/admin/welcome-screen/sections/add-ons.php:47
@@ -161,9 +162,8 @@ msgstr ""
 
 #: inc/admin/welcome-screen/sections/add-ons.php:55
 msgid ""
-"Storefront Product Sharing adds attractive social sharing icons for "
-"Facebook, Twitter, Pinterest and Email to your product pages. %sMore info "
-"&rarr;%s"
+"Storefront Product Sharing adds attractive social sharing icons for Facebook, "
+"Twitter, Pinterest and Email to your product pages. %sMore info &rarr;%s"
 msgstr ""
 
 #: inc/admin/welcome-screen/sections/add-ons.php:60
@@ -221,8 +221,8 @@ msgstr ""
 
 #: inc/admin/welcome-screen/sections/add-ons.php:107
 msgid ""
-"Storefront Top Bar adds a widgetised content area at the top of your site "
-"and customise it's appearance in the Customizer. %sMore info &rarr;%s"
+"Storefront Top Bar adds a widgetised content area at the top of your site and "
+"customise it's appearance in the Customizer. %sMore info &rarr;%s"
 msgstr ""
 
 #: inc/admin/welcome-screen/sections/add-ons.php:112
@@ -231,9 +231,9 @@ msgstr ""
 
 #: inc/admin/welcome-screen/sections/add-ons.php:120
 msgid ""
-"There are literally hundreds of awesome extensions available for you to use."
-" Looking for Table Rate Shipping? Subscriptions? Product Add-ons? You can "
-"find these and more in the WooCommerce extension shop. %sGo shopping%s."
+"There are literally hundreds of awesome extensions available for you to use. "
+"Looking for Table Rate Shipping? Subscriptions? Product Add-ons? You can find "
+"these and more in the WooCommerce extension shop. %sGo shopping%s."
 msgstr ""
 
 #: inc/admin/welcome-screen/sections/child-themes.php:11
@@ -298,12 +298,11 @@ msgstr ""
 
 #: inc/admin/welcome-screen/sections/getting-started.php:27
 msgid ""
-"Storefront includes three menu locations for primary, secondary and handheld"
-" navigation. The primary navigation is perfect for your key pages like the "
+"Storefront includes three menu locations for primary, secondary and handheld "
+"navigation. The primary navigation is perfect for your key pages like the "
 "shop and product categories. The secondary navigation is better suited to "
 "lower traffic pages such as terms and conditions. The handheld navigation "
-"gives you complete control over what menu items to serve to handheld "
-"devices."
+"gives you complete control over what menu items to serve to handheld devices."
 msgstr ""
 
 #: inc/admin/welcome-screen/sections/getting-started.php:28
@@ -316,8 +315,8 @@ msgstr ""
 
 #: inc/admin/welcome-screen/sections/getting-started.php:31
 msgid ""
-"Using the WordPress Customizer you can tweak Storefront's appearance to "
-"match your brand."
+"Using the WordPress Customizer you can tweak Storefront's appearance to match "
+"your brand."
 msgstr ""
 
 #: inc/admin/welcome-screen/sections/getting-started.php:32
@@ -330,8 +329,8 @@ msgstr ""
 
 #: inc/admin/welcome-screen/sections/getting-started.php:36
 msgid ""
-"Install and activate either %sJetpack%s or the to enable a custom logo "
-"option in the Customizer."
+"Install and activate either %sJetpack%s or the to enable a custom logo option "
+"in the Customizer."
 msgstr ""
 
 #: inc/admin/welcome-screen/sections/getting-started.php:46
@@ -340,15 +339,15 @@ msgstr ""
 
 #: inc/admin/welcome-screen/sections/getting-started.php:47
 msgid ""
-"Storefront includes a homepage template that displays a selection of "
-"products from your store."
+"Storefront includes a homepage template that displays a selection of products "
+"from your store."
 msgstr ""
 
 #: inc/admin/welcome-screen/sections/getting-started.php:48
 msgid ""
-"To set this up you will need to create a new page and assign the "
-"\"Homepage\" template to it. You can then set that as a static homepage in "
-"the %sReading%s settings."
+"To set this up you will need to create a new page and assign the \"Homepage\" "
+"template to it. You can then set that as a static homepage in the %sReading%s "
+"settings."
 msgstr ""
 
 #: inc/admin/welcome-screen/sections/getting-started.php:49
@@ -367,8 +366,8 @@ msgstr ""
 
 #: inc/admin/welcome-screen/sections/getting-started.php:56
 msgid ""
-"You can read detailed information on Storefronts features and how to develop"
-" on top of it in the documentation."
+"You can read detailed information on Storefronts features and how to develop "
+"on top of it in the documentation."
 msgstr ""
 
 #: inc/admin/welcome-screen/sections/getting-started.php:57
@@ -384,8 +383,8 @@ msgstr ""
 #: inc/admin/welcome-screen/sections/intro.php:15
 msgid ""
 "Whether you're a store owner, WordPress developer, or both - we hope you "
-"enjoy Storefront's deep integration with WooCommerce core (including several"
-" popular WooCommerce extensions), plus the flexible design and extensible "
+"enjoy Storefront's deep integration with WooCommerce core (including several "
+"popular WooCommerce extensions), plus the flexible design and extensible "
 "codebase that this theme provides."
 msgstr ""
 
@@ -431,8 +430,8 @@ msgstr ""
 #: inc/admin/welcome-screen/sections/who.php:19
 msgid ""
 "WooCommerce is the most popular WordPress eCommerce plugin. Packed full of "
-"intuitive features and surrounded by a thriving community - it's the perfect"
-" solution for building an online store with WordPress."
+"intuitive features and surrounded by a thriving community - it's the perfect "
+"solution for building an online store with WordPress."
 msgstr ""
 
 #: inc/admin/welcome-screen/sections/who.php:20
@@ -497,8 +496,8 @@ msgstr ""
 
 #: inc/customizer/controls/more.php:16
 msgid ""
-"There's a range of Storefront extensions available to put additional power "
-"in your hands. Check out the %sStorefront%s page in your dashboard for more "
+"There's a range of Storefront extensions available to put additional power in "
+"your hands. Check out the %sStorefront%s page in your dashboard for more "
 "information."
 msgstr ""
 
@@ -696,19 +695,19 @@ msgstr ""
 
 #: inc/structure/template-tags.php:54
 msgid "Recent Products"
-msgstr ""
+msgstr "最新商品"
 
 #: inc/structure/template-tags.php:82
 msgid "Featured Products"
-msgstr ""
+msgstr "特色商品"
 
 #: inc/structure/template-tags.php:110
 msgid "Top Rated Products"
-msgstr ""
+msgstr "熱門商品"
 
 #: inc/structure/template-tags.php:138
 msgid "On Sale"
-msgstr ""
+msgstr "促銷！"
 
 #: inc/woocommerce/template-tags.php:18
 msgid "View your shopping cart"

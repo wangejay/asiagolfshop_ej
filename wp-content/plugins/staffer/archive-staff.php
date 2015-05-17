@@ -17,7 +17,7 @@
 			$stafferarchivetitle = $stafferoptions['ptitle'];
 			if ( isset ( $stafferarchivetitle ) && ($stafferarchivetitle != '' ) ) {
 			?>
-			<h2 class="staffer-archive-page-title"><?php echo $stafferarchivetitle; ?></h2>
+			<h2 class="staffer-archive-page-title"><?php echo ABC; ?></h2>
 			<?php }
 				else {
 				?>

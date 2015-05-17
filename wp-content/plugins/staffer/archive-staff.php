@@ -21,7 +21,7 @@
 			<?php }
 				else {
 				?>
-			<h2 class="staffer-archive-page-title"><?php post_type_archive_title(); ?></h2>
+			
 			<?php } ?>
 
 			<?php

@@ -1,3 +1,13 @@
+<html>
+<head>
+<meta name="google-site-verification" content="41lE9UuTZ7x0TNkyxd3D2F68m4Zd0DBpg66LgKrD3T8" />
+<title> 我的標題 </title>
+</head> 
+<body>
+網頁內容
+</body>
+</html>
+
 <?php
 /**
  * The main template file.

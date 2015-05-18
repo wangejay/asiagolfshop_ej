@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Ultimate Auction Pro\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-05-13 10:54+0530\n"
-"PO-Revision-Date: 2015-05-18 23:06+0800\n"
+"PO-Revision-Date: 2015-05-18 23:24+0800\n"
 "Last-Translator: \n"
 "Language-Team: WisdmLabs\n"
 "Language: zh_TW\n"
@@ -45,7 +45,7 @@ msgstr "已售"
 #: /home/praveen/UA/ultimate-auction-pro/auction-feeder-page.php:260
 #: /home/praveen/UA/ultimate-auction-pro/front-dashboard-shortcode.php:429
 msgid "Product"
-msgstr ""
+msgstr "商品"
 
 #: /home/praveen/UA/ultimate-auction-pro/auction-feeder-page.php:262
 #: /home/praveen/UA/ultimate-auction-pro/manage-bids.php:123
@@ -55,7 +55,7 @@ msgstr ""
 #: /home/praveen/UA/ultimate-auction-pro/manage-auctions.php:216
 #: /home/praveen/UA/ultimate-auction-pro/manage-user-auctions.php:181
 msgid "Final Price"
-msgstr ""
+msgstr "最终價格"
 
 #: /home/praveen/UA/ultimate-auction-pro/auction-feeder-page.php:262
 #: /home/praveen/UA/ultimate-auction-pro/manage-bids.php:120
@@ -66,7 +66,7 @@ msgstr ""
 #: /home/praveen/UA/ultimate-auction-pro/manage-user-auctions.php:178
 #: /home/praveen/UA/ultimate-auction-pro/front-dashboard-shortcode.php:431
 msgid "Current Price"
-msgstr ""
+msgstr "當前價格"
 
 #: /home/praveen/UA/ultimate-auction-pro/auction-feeder-page.php:263
 #: /home/praveen/UA/ultimate-auction-pro/user-manage-auctions.php:495
@@ -77,18 +77,18 @@ msgstr ""
 #: /home/praveen/UA/ultimate-auction-pro/manage-user-auctions.php:490
 #: /home/praveen/UA/ultimate-auction-pro/front-dashboard-shortcode.php:432
 msgid "Bids Placed"
-msgstr ""
+msgstr "出價次數"
 
 #: /home/praveen/UA/ultimate-auction-pro/auction-feeder-page.php:264
 #: /home/praveen/UA/ultimate-auction-pro/auction-shortcode.php:374
 msgid "Ended at"
-msgstr ""
+msgstr "结束"
 
 #: /home/praveen/UA/ultimate-auction-pro/auction-feeder-page.php:264
 #: /home/praveen/UA/ultimate-auction-pro/front-dashboard-shortcode.php:433
 #: /home/praveen/UA/ultimate-auction-pro/ajax-actions/end-auction.php:9
 msgid "Ending"
-msgstr ""
+msgstr "結束時間"
 
 #: /home/praveen/UA/ultimate-auction-pro/auction-feeder-page.php:273
 msgid "Start bidding now."
@@ -179,7 +179,7 @@ msgstr ""
 #: /home/praveen/UA/ultimate-auction-pro/add-new-auction.php:244
 #: /home/praveen/UA/ultimate-auction-pro/user-add-new-auction.php:227
 msgid "Auction title and Auction description cannot be left blank."
-msgstr ""
+msgstr "拍賣標題和拍賣說明不能為空。"
 
 #: /home/praveen/UA/ultimate-auction-pro/add-new-auction.php:248
 #: /home/praveen/UA/ultimate-auction-pro/ultimate-auction-pro.php:1893
@@ -261,12 +261,12 @@ msgstr ""
 #: /home/praveen/UA/ultimate-auction-pro/add-new-auction.php:412
 #: /home/praveen/UA/ultimate-auction-pro/user-add-new-auction.php:373
 msgid "Product Description"
-msgstr ""
+msgstr "產品描述"
 
 #: /home/praveen/UA/ultimate-auction-pro/add-new-auction.php:427
 #: /home/praveen/UA/ultimate-auction-pro/user-add-new-auction.php:387
 msgid "Product Short Description"
-msgstr ""
+msgstr "商品简述"
 
 #: /home/praveen/UA/ultimate-auction-pro/add-new-auction.php:431
 #: /home/praveen/UA/ultimate-auction-pro/user-add-new-auction.php:389
@@ -1293,7 +1293,7 @@ msgstr ""
 #: /home/praveen/UA/ultimate-auction-pro/auction-description-tabs.php:4
 #: /home/praveen/UA/ultimate-auction-pro/ua-paypal-invoice/ua-paypal-invoice.php:243
 msgid "Description"
-msgstr ""
+msgstr "描述"
 
 #: /home/praveen/UA/ultimate-auction-pro/email-template.php:134
 msgid ""
@@ -1412,11 +1412,11 @@ msgstr ""
 
 #: /home/praveen/UA/ultimate-auction-pro/auction-description-tabs.php:10
 msgid "Send Private Message"
-msgstr ""
+msgstr "發送私人訊息"
 
 #: /home/praveen/UA/ultimate-auction-pro/auction-description-tabs.php:13
 msgid "Total bids placed"
-msgstr ""
+msgstr "出價次數"
 
 #: /home/praveen/UA/ultimate-auction-pro/auction-description-tabs.php:16
 msgid "Terms"
@@ -1460,7 +1460,7 @@ msgstr ""
 
 #: /home/praveen/UA/ultimate-auction-pro/auction-description-tabs.php:263
 msgid "Send your best offer"
-msgstr ""
+msgstr "發送您最好的報價"
 
 #: /home/praveen/UA/ultimate-auction-pro/payment_front.php:58
 #: /home/praveen/UA/ultimate-auction-pro/payment.php:56
@@ -1705,19 +1705,19 @@ msgstr ""
 
 #: /home/praveen/UA/ultimate-auction-pro/review-rating.php:38
 msgid "Thank you for submitting your review."
-msgstr ""
+msgstr "感謝您提交您的評論。"
 
 #: /home/praveen/UA/ultimate-auction-pro/review-rating.php:47
 msgid "Please enter review title."
-msgstr ""
+msgstr "請輸入審查標題。"
 
 #: /home/praveen/UA/ultimate-auction-pro/review-rating.php:75
 msgid "Review for"
-msgstr ""
+msgstr "檢閱"
 
 #: /home/praveen/UA/ultimate-auction-pro/review-rating.php:82
 msgid "Submit a review"
-msgstr ""
+msgstr "提交審查"
 
 #: /home/praveen/UA/ultimate-auction-pro/review-rating.php:83
 msgid "Rating"
@@ -1745,7 +1745,7 @@ msgstr ""
 
 #: /home/praveen/UA/ultimate-auction-pro/review-rating.php:107
 msgid "Submit Review"
-msgstr ""
+msgstr "提交審查"
 
 #: /home/praveen/UA/ultimate-auction-pro/review-rating.php:111
 msgid "You must be logged in to post your review"

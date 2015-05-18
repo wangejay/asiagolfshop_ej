@@ -1,0 +1,25 @@
+.clear {
+    clear: both;
+}
+.wdm-single-auction-wrap {
+    margin-bottom: 20px;
+}
+.wdm_auction_sidebar_auc_thumbnail {
+    float: left;
+    width: 30%;
+}
+.wdm-auction-sidebar-auc-link > img {
+    max-width: 100%;
+}
+.wdm-auction-content {
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    float: left;
+    padding-left: 10px;
+    width: 70%;
+}
+.wdm-auction-sb-listing-all {
+    display: block;
+    text-align: right;
+}

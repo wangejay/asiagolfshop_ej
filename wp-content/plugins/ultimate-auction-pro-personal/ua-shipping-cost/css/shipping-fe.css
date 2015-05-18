@@ -1,0 +1,47 @@
+#ua_shipping_container{
+      clear:both;
+      margin-top: 10px;
+      float: left;
+      }
+   
+    .del_ship_type_text_ua{
+         font-weight: bold;
+      }
+      
+      .ua_ship_fe_val_text{
+         font-size: 12px;
+         width: 200px;
+         margin-left: 10px;
+         float: left;
+      }
+      
+      .ua_shipping_small_text{
+         font-size: 11px;
+         }
+      
+      .ua_ship_fe_menu_text{
+         float: left;
+         text-align: right;
+         width: 70px;
+         font-size: 13px;
+         color: #666666;
+         line-height: 1.5;
+      }
+      
+      .ua_paid_ship_menu_text{
+         font-weight:bold;
+         font-size: 13px;
+         margin-left: 80px;
+      }
+      
+      .ua_see_all_countries, .ua_hide_all_countries{
+       cursor: pointer;
+       color: #002398;
+      }
+      
+      .ua_see_all_countries:hover, .ua_hide_all_countries:hover{
+         text-decoration: underline;
+      }
+      
+      .wdm_shipping-info-div{float: left !important; margin-top:10px !important; color: blue !important;}
+      #wdm-shipping-info-link{text-decoration: none !important; color: blue !important;}

@@ -1,0 +1,31 @@
+ .ua_shipping_cont_style{
+      border:1px dashed #ddd;
+      width:400px;
+      padding:10px;
+      margin-top:10px;
+      border-radius:5px;
+      overflow: hidden;
+      }
+      
+      button.wdm_ua_multiselect_country, .wdm_ua_multiselect_country ul li label{
+         background: none !important;
+         color: #000000;
+         border-radius: 3px;
+      }
+      
+      .wdm_ua_multiselect_country .ui-state-hover{
+         background: #dddddd !important;
+         border: 1px solid transparent !important;
+      }
+      
+       .wdm_ua_multiselect_country .ui-multiselect-header, .wdm_ua_multiselect_country .ui-widget-header{
+         background: #dddddd !important;
+      }
+      
+      button.wdm_ua_multiselect_country{width: 298px !important;}
+      
+      .wdm_ua_multiselect_country .ui-multiselect-header ul li{
+         margin-bottom: 0 !important;
+         padding-top: 2px;
+         padding-bottom: 2px;
+        }

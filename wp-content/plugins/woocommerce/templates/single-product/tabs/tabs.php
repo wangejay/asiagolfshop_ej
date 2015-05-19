@@ -22,7 +22,7 @@ $tabs = apply_filters( 'woocommerce_product_tabs', array() );
 if ( ! empty( $tabs ) ) : ?>
 
 	<div class="woocommerce-tabs">
-		<ul class="tabs">
+			
 			<?php foreach ( $tabs as $key => $tab ) : ?>
 
 				<li class="<?php echo $key ?>_tab">
@@ -30,7 +30,6 @@ if ( ! empty( $tabs ) ) : ?>
 				</li>
 
 			<?php endforeach; ?>
-		</ul>
 		
 		<?php foreach ( $tabs as $key => $tab ) : ?>
 

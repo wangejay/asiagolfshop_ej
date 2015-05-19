@@ -22,17 +22,6 @@ $tabs = apply_filters( 'woocommerce_product_tabs', array() );
 if ( ! empty( $tabs ) ) : ?>
 
 	<div class="woocommerce-tabs">
-		<ul class="tabs">
-			
-			<?php foreach ( $tabs as $key => $tab ) : ?>
-				
-				<li class="<?php echo $key ?>_tab">
-					<a href="#tab-<?php echo $key ?>">12</a>
-				</li>
-
-			<?php endforeach; ?>
-		</ul>
-		
 		<?php foreach ( $tabs as $key => $tab ) : ?>
 
 			<div class="panel entry-content" id="tab-<?php echo $key ?>">
@@ -40,6 +29,18 @@ if ( ! empty( $tabs ) ) : ?>
 			</div>
 
 		<?php endforeach; ?>
+		<ul class="tabs">
+			
+			<?php foreach ( $tabs as $key => $tab ) : ?>
+				
+				<li class="<?php echo $key ?>_tab">
+					<a href="#tab-<?php echo $key ?>"></a>
+				</li>
+
+			<?php endforeach; ?>
+		</ul>
+		
+		
 	</div>
 	<h2>退貨需知</h2>
 	<p>

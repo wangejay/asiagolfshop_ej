@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Ultimate Auction Pro\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-05-13 10:54+0530\n"
-"PO-Revision-Date: 2015-05-18 23:24+0800\n"
+"PO-Revision-Date: 2015-05-19 19:26+0800\n"
 "Last-Translator: \n"
 "Language-Team: WisdmLabs\n"
 "Language: zh_TW\n"
@@ -130,7 +130,7 @@ msgstr "使用直購價的售出商品"
 #: /home/praveen/UA/ultimate-auction-pro/user-my-watchlist.php:135
 #: /home/praveen/UA/ultimate-auction-pro/manage-user-auctions.php:156
 msgid "No bids placed"
-msgstr ""
+msgstr "沒有放置出價"
 
 #: /home/praveen/UA/ultimate-auction-pro/auction-feeder-page.php:365
 #: /home/praveen/UA/ultimate-auction-pro/auction-feeder-page.php:379
@@ -190,7 +190,7 @@ msgstr "拍賣標題和拍賣說明不能為空。"
 #: /home/praveen/UA/ultimate-auction-pro/settings-page.php:1367
 #: /home/praveen/UA/ultimate-auction-pro/user-add-new-auction.php:231
 msgid "Sorry, your nonce did not verify."
-msgstr ""
+msgstr "對不起，您的隨機數沒有驗證。"
 
 #: /home/praveen/UA/ultimate-auction-pro/add-new-auction.php:259
 #: /home/praveen/UA/ultimate-auction-pro/user-add-new-auction.php:242
@@ -695,7 +695,7 @@ msgstr ""
 #: /home/praveen/UA/ultimate-auction-pro/ultimate-auction-pro.php:699
 #: /home/praveen/UA/ultimate-auction-pro/ajax-actions/best-offers-accept-reject.php:77
 msgid "Sorry, the email could not sent."
-msgstr ""
+msgstr "很抱歉，電子郵件無法發送。"
 
 #: /home/praveen/UA/ultimate-auction-pro/ultimate-auction-pro.php:374
 #, php-format
@@ -704,7 +704,7 @@ msgstr ""
 
 #: /home/praveen/UA/ultimate-auction-pro/ultimate-auction-pro.php:376
 msgid "Sorry, this auction cannot be deleted."
-msgstr ""
+msgstr "對不起，本次拍賣不能被刪除。"
 
 #: /home/praveen/UA/ultimate-auction-pro/ultimate-auction-pro.php:422
 msgid "Auctions and their attachments are deleted successfully."
@@ -712,7 +712,7 @@ msgstr ""
 
 #: /home/praveen/UA/ultimate-auction-pro/ultimate-auction-pro.php:424
 msgid "Sorry, the auctions cannot be deleted."
-msgstr ""
+msgstr "對不起，拍賣不能被刪除。"
 
 #: /home/praveen/UA/ultimate-auction-pro/ultimate-auction-pro.php:441
 #, php-format
@@ -721,7 +721,7 @@ msgstr ""
 
 #: /home/praveen/UA/ultimate-auction-pro/ultimate-auction-pro.php:443
 msgid "Sorry, this auction cannot be ended."
-msgstr ""
+msgstr "對不起，本次拍賣不能結束。"
 
 #: /home/praveen/UA/ultimate-auction-pro/ultimate-auction-pro.php:467
 msgid "Bid has been deleted successfully."
@@ -729,7 +729,7 @@ msgstr ""
 
 #: /home/praveen/UA/ultimate-auction-pro/ultimate-auction-pro.php:469
 msgid "Sorry, this bid cannot be deleted."
-msgstr ""
+msgstr "對不起，這個出價無法刪除。"
 
 #: /home/praveen/UA/ultimate-auction-pro/ultimate-auction-pro.php:678
 msgid "You have a private message from a site visitor"
@@ -853,7 +853,7 @@ msgstr ""
 
 #: /home/praveen/UA/ultimate-auction-pro/ultimate-auction-pro.php:1076
 msgid "Sorry, email could not be sent."
-msgstr ""
+msgstr "很抱歉，電子郵件無法發送。"
 
 #: /home/praveen/UA/ultimate-auction-pro/ultimate-auction-pro.php:1099
 #: /home/praveen/UA/ultimate-auction-pro/auction-shortcode.php:904
@@ -1166,7 +1166,7 @@ msgstr ""
 #: /home/praveen/UA/ultimate-auction-pro/auction-shortcode.php:481
 #, php-format
 msgid "Ending in: %s"
-msgstr ""
+msgstr "结束於 %s"
 
 #: /home/praveen/UA/ultimate-auction-pro/auction-shortcode.php:499
 msgid "Reserve price has been met."
@@ -1174,7 +1174,7 @@ msgstr ""
 
 #: /home/praveen/UA/ultimate-auction-pro/auction-shortcode.php:505
 msgid "Reserve price has not been met by any bid."
-msgstr ""
+msgstr "這商品還沒有達到保留底價"
 
 #: /home/praveen/UA/ultimate-auction-pro/auction-shortcode.php:520
 #: /home/praveen/UA/ultimate-auction-pro/auction-shortcode.php:545
@@ -1232,13 +1232,13 @@ msgstr ""
 
 #: /home/praveen/UA/ultimate-auction-pro/auction-shortcode.php:732
 msgid "Sorry, you can not bid on your own item."
-msgstr ""
+msgstr "對不起，你不能競投自己的項目。"
 
 #: /home/praveen/UA/ultimate-auction-pro/auction-shortcode.php:748
 #: /home/praveen/UA/ultimate-auction-pro/auction-shortcode.php:757
 #: /home/praveen/UA/ultimate-auction-pro/auction-shortcode.php:777
 msgid "Add to Watchlist"
-msgstr ""
+msgstr "加入收藏夾"
 
 #: /home/praveen/UA/ultimate-auction-pro/auction-shortcode.php:751
 #: /home/praveen/UA/ultimate-auction-pro/auction-shortcode.php:760
@@ -1697,7 +1697,7 @@ msgstr ""
 
 #: /home/praveen/UA/ultimate-auction-pro/review-rating.php:24
 msgid "Sorry, you can not submit a review for yourself."
-msgstr ""
+msgstr "對不起，您不能提交評論自己。"
 
 #: /home/praveen/UA/ultimate-auction-pro/review-rating.php:27
 msgid "You have already submitted a review for this seller."

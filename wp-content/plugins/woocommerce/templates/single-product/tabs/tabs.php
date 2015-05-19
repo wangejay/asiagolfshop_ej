@@ -41,5 +41,7 @@ if ( ! empty( $tabs ) ) : ?>
 
 		<?php endforeach; ?>
 	</div>
+	退貨說明：
+	七日內退貨
 
 <?php endif; ?>

@@ -25,9 +25,9 @@ if ( ! empty( $tabs ) ) : ?>
 		<ul class="tabs">
 			
 			<?php foreach ( $tabs as $key => $tab ) : ?>
-
+				
 				<li class="<?php echo $key ?>_tab">
-					<a href="#tab-<?php echo $key ?>"><?php echo apply_filters( 'woocommerce_product_' . $key . '_tab_title', $tab['title'], $key ) ?></a>
+					<a href="#tab-<?php echo $key ?>">12</a>
 				</li>
 
 			<?php endforeach; ?>
@@ -41,7 +41,7 @@ if ( ! empty( $tabs ) ) : ?>
 
 		<?php endforeach; ?>
 	</div>
-	<h3>退貨需知</h3>
+	<h2>退貨需知</h2>
 	<p>
 	線上購物的消費者，都可以依照消費者保護法的規定，享有商品貨到日起七天猶豫期的權益。但猶豫期並非試用期，所以，您所退回的商品必須是全新的狀態、而且完整包裝；請注意保持商品本體、配件、贈品、保證書、原廠包裝及所有附隨文件或資料的完整性，切勿缺漏任何配件或損毀原廠外盒。
                 </p>

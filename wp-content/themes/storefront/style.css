@@ -430,7 +430,8 @@ body {
     color: #96588a; }
 
 .site-info {
-  padding: 2.618em 0; }
+  padding: 2.618em 0; 
+  padding-left: 300px;  }
 
 /**
  * Alignment

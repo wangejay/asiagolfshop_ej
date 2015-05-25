@@ -56,8 +56,9 @@ if ( ! function_exists( 'storefront_recent_products' ) ) {
 
 			echo '<section class="storefront-product-section storefront-recent-products">';
 
-			echo '<h2 class="section-title">' . esc_attr( $args['title'] ) . '</h2>';
+			echo '<h2 class="section-title"><a href="http://asiagolfshop.azurewebsites.net/?page_id=2011"> ' . esc_attr( $args['title'] ) . '</a></h2>';
 			echo do_shortcode( '[recent_products per_page="' . intval( $args['limit'] ) . '" columns="' . intval( $args['columns'] ) . '"]' );
+			
 
 			echo '</section>';
 
@@ -84,7 +85,7 @@ if ( ! function_exists( 'storefront_featured_products' ) ) {
 
 			echo '<section class="storefront-product-section storefront-featured-products">';
 
-			echo '<h2 class="section-title">' . esc_attr( $args['title'] ) . '</h2>';
+			echo '<h2 class="section-title"><a href="http://asiagolfshop.azurewebsites.net/?page_id=2111"> ' . esc_attr( $args['title'] ) . '</a></h2>';
 			echo do_shortcode( '[featured_products per_page="' . intval( $args['limit'] ) . '" columns="' . intval( $args['columns'] ) . '"]' );
 
 			echo '</section>';
@@ -112,7 +113,7 @@ if ( ! function_exists( 'storefront_popular_products' ) ) {
 
 			echo '<section class="storefront-product-section storefront-popular-products">';
 
-			echo '<h2 class="section-title">' . esc_attr( $args['title'] ) . '</h2>';
+			echo '<h2 class="section-title"><a href="http://asiagolfshop.azurewebsites.net/?page_id=2131"> ' . esc_attr( $args['title'] ) . '</a></h2>';
 			echo do_shortcode( '[best_selling_products per_page="' . intval( $args['limit'] ) . '" columns="' . intval( $args['columns'] ) . '"]' );
 
 			echo '</section>';

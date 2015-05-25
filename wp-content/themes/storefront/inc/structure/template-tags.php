@@ -140,7 +140,8 @@ if ( ! function_exists( 'storefront_on_sale_products' ) ) {
 
 			echo '<section class="storefront-product-section storefront-on-sale-products">';
 
-			echo '<h2 class="section-title">' . esc_attr( $args['title'] ) . '</h2>';
+			echo '<h2 class="section-title"><a href="http://asiagolfshop.azurewebsites.net/?page_id=2151"> ' . esc_attr( $args['title'] ) . '</a></h2>';
+			
 			echo do_shortcode( '[sale_products per_page="' . intval( $args['limit'] ) . '" columns="' . intval( $args['columns'] ) . '"]' );
 
 			echo '</section>';

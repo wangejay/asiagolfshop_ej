@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Ultimate Auction Pro\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-05-13 10:54+0530\n"
-"PO-Revision-Date: 2015-05-19 19:26+0800\n"
+"PO-Revision-Date: 2015-06-10 15:23+0800\n"
 "Last-Translator: \n"
 "Language-Team: WisdmLabs\n"
 "Language: zh_TW\n"
@@ -92,7 +92,7 @@ msgstr "結束時間"
 
 #: /home/praveen/UA/ultimate-auction-pro/auction-feeder-page.php:273
 msgid "Start bidding now."
-msgstr ""
+msgstr "現在就開始招標。"
 
 #: /home/praveen/UA/ultimate-auction-pro/auction-feeder-page.php:275
 msgid "Still some days left for expiration."
@@ -464,7 +464,7 @@ msgstr ""
 #: /home/praveen/UA/ultimate-auction-pro/add-new-auction.php:590
 #: /home/praveen/UA/ultimate-auction-pro/user-add-new-auction.php:518
 msgid "Visitors can buy your auction by making payments via PayPal."
-msgstr ""
+msgstr "遊客可以通過PayPal進行支付購買你的拍賣。"
 
 #: /home/praveen/UA/ultimate-auction-pro/add-new-auction.php:595
 #: /home/praveen/UA/ultimate-auction-pro/auction-description-tabs.php:24
@@ -487,13 +487,13 @@ msgstr ""
 #: /home/praveen/UA/ultimate-auction-pro/add-new-auction.php:652
 #: /home/praveen/UA/ultimate-auction-pro/user-add-new-auction.php:583
 msgid "Payment Method"
-msgstr ""
+msgstr "添加付款方式"
 
 #: /home/praveen/UA/ultimate-auction-pro/add-new-auction.php:678
 #: /home/praveen/UA/ultimate-auction-pro/user-add-new-auction.php:614
 msgid ""
 "Please select a payment method on Settings page before adding an auction."
-msgstr ""
+msgstr "請加入拍賣前選擇在設置頁面中的付款方式。"
 
 #: /home/praveen/UA/ultimate-auction-pro/add-new-auction.php:699
 #: /home/praveen/UA/ultimate-auction-pro/payment_front.php:10
@@ -1047,7 +1047,7 @@ msgstr ""
 #: /home/praveen/UA/ultimate-auction-pro/settings-page.php:185
 #: /home/praveen/UA/ultimate-auction-pro/front-dashboard-shortcode.php:63
 msgid "Add Auction"
-msgstr ""
+msgstr "添加拍賣"
 
 #: /home/praveen/UA/ultimate-auction-pro/ultimate-auction-pro.php:1548
 #: /home/praveen/UA/ultimate-auction-pro/ultimate-auction-pro.php:1569
@@ -1658,7 +1658,7 @@ msgstr ""
 #: /home/praveen/UA/ultimate-auction-pro/manage-user-auctions.php:512
 #: /home/praveen/UA/ultimate-auction-pro/front-dashboard-shortcode.php:61
 msgid "Payment"
-msgstr ""
+msgstr "支付方式"
 
 #: /home/praveen/UA/ultimate-auction-pro/manage-bids.php:186
 #: /home/praveen/UA/ultimate-auction-pro/user-manage-auctions.php:527
@@ -1681,7 +1681,7 @@ msgstr ""
 #: /home/praveen/UA/ultimate-auction-pro/manage-user-bids.php:304
 #: /home/praveen/UA/ultimate-auction-pro/front-dashboard-shortcode.php:454
 msgid "Bids Won"
-msgstr ""
+msgstr "贏得投標"
 
 #: /home/praveen/UA/ultimate-auction-pro/manage-bids.php:257
 #: /home/praveen/UA/ultimate-auction-pro/manage-user-bids.php:305
@@ -3139,11 +3139,11 @@ msgstr ""
 
 #: /home/praveen/UA/ultimate-auction-pro/front-dashboard-shortcode.php:64
 msgid "Manage Auctions"
-msgstr ""
+msgstr "管理拍賣"
 
 #: /home/praveen/UA/ultimate-auction-pro/front-dashboard-shortcode.php:67
 msgid "Manage Bids"
-msgstr ""
+msgstr "管理競標"
 
 #: /home/praveen/UA/ultimate-auction-pro/front-dashboard-shortcode.php:180
 msgid ""

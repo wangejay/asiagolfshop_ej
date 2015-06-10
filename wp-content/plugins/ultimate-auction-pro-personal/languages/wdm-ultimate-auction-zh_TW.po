@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Ultimate Auction Pro\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-05-13 10:54+0530\n"
-"PO-Revision-Date: 2015-06-10 15:23+0800\n"
+"PO-Revision-Date: 2015-06-10 15:39+0800\n"
 "Last-Translator: \n"
 "Language-Team: WisdmLabs\n"
 "Language: zh_TW\n"
@@ -437,7 +437,7 @@ msgstr ""
 #: /home/praveen/UA/ultimate-auction-pro/front-dashboard-shortcode.php:59
 #: /home/praveen/UA/ultimate-auction-pro/ua-paypal-invoice/invoices.php:331
 msgid "Settings"
-msgstr ""
+msgstr "設置"
 
 #: /home/praveen/UA/ultimate-auction-pro/add-new-auction.php:576
 #: /home/praveen/UA/ultimate-auction-pro/user-add-new-auction.php:508
@@ -1053,7 +1053,7 @@ msgstr "添加拍賣"
 #: /home/praveen/UA/ultimate-auction-pro/ultimate-auction-pro.php:1569
 #: /home/praveen/UA/ultimate-auction-pro/front-dashboard-shortcode.php:74
 msgid "Invoices"
-msgstr ""
+msgstr "收據"
 
 #: /home/praveen/UA/ultimate-auction-pro/ultimate-auction-pro.php:1622
 #: /home/praveen/UA/ultimate-auction-pro/auction-description-tabs.php:249
@@ -1788,13 +1788,13 @@ msgstr ""
 #: /home/praveen/UA/ultimate-auction-pro/settings-page.php:295
 #: /home/praveen/UA/ultimate-auction-pro/settings-page.php:655
 msgid "Payment Settings"
-msgstr ""
+msgstr "付款設置"
 
 #: /home/praveen/UA/ultimate-auction-pro/user-settings-page.php:48
 #: /home/praveen/UA/ultimate-auction-pro/settings-page.php:299
 #: /home/praveen/UA/ultimate-auction-pro/settings-page.php:670
 msgid "Payment Methods"
-msgstr ""
+msgstr "支付方式"
 
 #: /home/praveen/UA/ultimate-auction-pro/user-settings-page.php:70
 #: /home/praveen/UA/ultimate-auction-pro/settings-page.php:315
@@ -1805,6 +1805,8 @@ msgid ""
 "Payment -> Wire Transfer and enter its details. Same would apply to PayPal, "
 "Cheque and Cash."
 msgstr ""
+"注：如果您選擇任何付款方式，請訪問付款選項卡並輸入其詳細信息。例如：如果您啟"
+"用ATM轉帳，進入ATM轉帳，輸入它的細節。"
 
 #: /home/praveen/UA/ultimate-auction-pro/user-manage-auctions.php:72
 #: /home/praveen/UA/ultimate-auction-pro/manage-auctions.php:78
@@ -2573,7 +2575,7 @@ msgstr ""
 #: /home/praveen/UA/ultimate-auction-pro/settings-page.php:206
 #: /home/praveen/UA/ultimate-auction-pro/front-dashboard-shortcode.php:76
 msgid "My Watchlist"
-msgstr ""
+msgstr "我的收藏夾"
 
 #: /home/praveen/UA/ultimate-auction-pro/settings-page.php:120
 #: /home/praveen/UA/ultimate-auction-pro/settings-page.php:213
